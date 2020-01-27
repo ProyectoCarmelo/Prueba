@@ -3,15 +3,17 @@ __________________________________
 
 Paso 1: git remote add origin https://github.com/ProyectoCarmelo/Prueba.git
 
-Paso 2: git add /carpeta o archivo editado/
+Paso 2: git add /carpeta o archivo editado/ '.'-> añade todo los archivos
 
 Paso 3: git commit -m "x commit"
+
+Paso 4: git push origin master
 
 
 
 Para descargar archivos de github
 __________________________________
 
-Paso 1: git remote add origin https://github.com/ProyectoCarmelo/Prueba.git
+Paso 1: git remote add origin https://github.com/ProyectoCarmelo/Prueba.git -> url del proyecto
 
 Paso 2: git pull orgin master
